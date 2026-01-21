@@ -1,6 +1,4 @@
-# State Capacity and Environmental Policy
-
-**Do countries with higher state capacity protect a larger share of their land area?**
+# Do countries with higher state capacity protect a larger share of their land area?
 
 This repository presents an empirical policy analysis that examines whether
 stronger state capacity is associated with greater provision of environmental
